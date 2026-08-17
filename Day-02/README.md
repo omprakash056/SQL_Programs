@@ -3,7 +3,7 @@
 
 # What I Practiced
 
-Creating a database
+-Creating a database
 Selecting a database using USE
 Creating a table
 Checking the table structure using DESCRIBE
